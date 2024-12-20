@@ -30,7 +30,7 @@
 #include <kinc/graphics4/rendertarget.h>
 #include <kinc/graphics4/texture.h>
 #ifdef WITH_COMPUTE
-#include <kinc/compute/compute.h>
+#include <kinc/graphics4/compute.h>
 #endif
 #include <kinc/io/lz4/lz4.h>
 #define STB_IMAGE_IMPLEMENTATION
